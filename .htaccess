@@ -1,0 +1,6 @@
+# Enable Rewriting
+RewriteEngine on
+
+# Rewrite resume to stephendemosresume.pdf
+RewriteRule ^resume/?$ stephendemosresume.pdf
+
